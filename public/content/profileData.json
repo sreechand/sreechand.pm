@@ -1,0 +1,896 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "sreechand",
+    "displayName": "Sreechand Tavva",
+    "profession": "Manager - Technology",
+    "location": "Bangalore",
+    "pronouns": "He/Him",
+    "byline": "Manager - Technology in Bangalore, He/Him",
+    "website": "arghyam.org",
+    "websiteURL": "http://arghyam.org",
+    "about": "Leads knowledge and data products at Arghyam and India Water Portal.\n\nBuilding for the next billion. Interested in climate action, accesibility, learning and inclusion.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Work Experience",
+      "Projects",
+      "Exhibitions",
+      "Speaking",
+      "Side Projects",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "hvqrwboiSmLi64alTAYO",
+      "year": "2021",
+      "heading": "Scaling Community Engagement at Foundation for Ecological Society",
+      "url": null,
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "project",
+      "title": "Scaling Community Engagement",
+      "company": "Foundation for Ecological Society"
+    },
+    {
+      "id": "nrguvZ0kLxM4zvcwgEJx",
+      "year": "2019",
+      "heading": "Learning Platforms at Sunbird",
+      "url": "https://github.com/arghyam/sunbird-portal/tree/jaldhara-master",
+      "collaborators": [],
+      "description": "Helped pivot Arghyam from a traditional philanthropy to an ecosystem enabler. Inspired by the Digital Public Goods Alliance. \n\nI led a multi stakeholder team in developing and deploying a learning management system with a focus on openness and sharing. \n\nTrainers were able to create modules easily, translate modules easily and partners were able to build courses from all available content, not just their own. \n\nCodebase of new modules created were contributed to the ecosystem. All content created on the platform was Creative Commons (CC BY 4.0)",
+      "attachments": [],
+      "type": "project",
+      "title": "Learning Platforms",
+      "company": "Sunbird"
+    },
+    {
+      "id": "W8WO7hOxid0NCY5LQ9rS",
+      "year": "2018",
+      "heading": "Open Water Data at DataMeet & Center for Internet and Society",
+      "url": "https://www.indiawaterportal.org/articles/open-water-data-integrated-water-science",
+      "collaborators": [],
+      "description": "As I started managing India Water Portal, I realized that most nonprofits who are poised to use GIS tools do not have an understanding on availability of datasets on groundwater and related resources(Land Use/Land Cover, Precipitation).\n\nCommissioned this grant to analyze available datasets and to build a prototype that can overlay selected datasets.",
+      "attachments": [],
+      "type": "project",
+      "title": "Open Water Data",
+      "company": "DataMeet & Center for Internet and Society"
+    },
+    {
+      "id": "nXZP4FZlhaVmampgAmPp",
+      "year": "2017",
+      "heading": "Kobo for Water at Multiple Indian Nonprofits",
+      "url": null,
+      "collaborators": [],
+      "description": "Built workflows to collect data for groundwater monitoring, trained NGOs across India\n\nHaving used ODK in the previous projects and understanding its limitations (lack of case management, ease of use, and update lags) I evaluated other open and SaaS data collection platforms\n\nI rolled out KoboCollect with templates for groundwater data that nonprofit partners can quickly duplicate and collect data about their groundwater resources.\n\nTrained NGOs in Meghalaya, Mizoram and Tripura on how to collect data, data standards and interpreting collected data.\n\nThese rollouts led to National Mission on Himalayan Studies\n(NMHS) implementing tools and standards in Uttarakhand, Nagaland and Arunachal Pradesh",
+      "attachments": [],
+      "type": "project",
+      "title": "Kobo for Water",
+      "company": "Multiple Indian Nonprofits"
+    },
+    {
+      "id": "ncqdrx0UK85Sbr5ELYkc",
+      "year": "2016",
+      "heading": "Odisha Springs at UNDP",
+      "url": "https://tribal.nic.in/1000-springs-initiative.aspx",
+      "collaborators": [],
+      "description": "Customized ODK to build an inventory of springs in 3 districts of Odisha.\n\nConsulted water experts and local data collecting volunteers to create standards\n\nTrained 50 people over 2 days to collect data of 300 springs in 2 months.\n\nCollated and visualized this data that led to the creation of the 1000 Springs Initiative by the Ministry of Tribal Affairs",
+      "attachments": [],
+      "type": "project",
+      "title": "Odisha Springs",
+      "company": "UNDP"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "HcUmenmAIMuU3SowDYgo",
+      "year": "Ongoing",
+      "heading": "Boardgame community at ReRoll",
+      "url": "http://reroll.in",
+      "collaborators": [],
+      "description": "ReRoll is a community-focused board games collective in Bangalore. What started as a way for a few friends to share our joy of boardgaming grew to become the largest board game group in India.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Boardgame community",
+      "company": "ReRoll"
+    },
+    {
+      "id": "qac5U5kVkzfa6iLqMtdm",
+      "year": "2021",
+      "heading": "Coping with COVID at Pause to Begin",
+      "url": null,
+      "collaborators": [],
+      "description": "Collaborated with therapists to set up pro-bono therapy sessions during 1st and 2nd waves of COVID. I onboarded therapists onto a scheduling platform, trained them on how to use and customize their slots based on their availability.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Coping with COVID",
+      "company": "Pause to Begin"
+    }
+  ],
+  "exhibitions": [],
+  "talks": [
+    {
+      "id": "OCAKgSsHMAVE1Cd2EfaN",
+      "year": "2024",
+      "heading": "Next steps: Integration of AI, Languages and Digitization in Work Practices at Future of the Commons",
+      "url": null,
+      "collaborators": [],
+      "description": "Commons: A Conversation on Artificial Intelligence, Indian Languages and Archives\n\nIn this panel, I shared my learnings managing a multi-language low-bandwidth platform that has first time technology users.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Next steps: Integration of AI, Languages and Digitization in Work Practices",
+      "event": "Future of the Commons",
+      "location": "Maharashtra Knowledge Corporation Ltd, Pune"
+    },
+    {
+      "id": "wkbNILVRPSFGuTLpBSFc",
+      "year": "2023",
+      "heading": "A Commons Approach to Digital Transformation at Roots of Resilience",
+      "url": "https://platform.coop/events/roots-of-resilience/a-commons-approach-to-digital-transformation/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "talk",
+      "title": "A Commons Approach to Digital Transformation",
+      "event": "Roots of Resilience",
+      "location": "Kochi, India"
+    },
+    {
+      "id": "hMe5CWIguo4Uy9B6NSkM",
+      "year": "2017",
+      "heading": "Data Challenges in the Development Sector at Open Data Camp",
+      "url": null,
+      "collaborators": [],
+      "description": "Shared culture and technological challenges that organisations must overcome to lead data-driven interventions in the development sector.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Data Challenges in the Development Sector",
+      "event": "Open Data Camp",
+      "location": "Delhi"
+    },
+    {
+      "id": "SPFN72r7nzp2sY0hKNVm",
+      "year": "2010",
+      "heading": "Designing Culturally Appropriate Games by Drawing on Indian Mythology at IndiaHCI 2010 | IDID 2010",
+      "url": null,
+      "collaborators": [],
+      "description": "As part of IFIP TC13 Special Interest Group on Interaction Design for International Development, presented on language learning games to compliment school education for rural Indian students.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Designing Culturally Appropriate Games by Drawing on Indian Mythology",
+      "event": "IndiaHCI 2010 | IDID 2010",
+      "location": "Mumbai"
+    }
+  ],
+  "writing": [
+    {
+      "id": "LYyGItKMxpogOvki3EpQ",
+      "year": "2024",
+      "heading": "How do your everyday choices impact the world's resources?, India Water Portal",
+      "url": "https://www.indiawaterportal.org/articles/how-do-your-everyday-choices-impact-worlds-resources",
+      "collaborators": [],
+      "description": "First of a series of articles on digital commons and water.",
+      "attachments": [],
+      "type": "writing",
+      "title": "How do your everyday choices impact the world's resources?",
+      "publisher": "India Water Portal"
+    },
+    {
+      "id": "wVoRIM825Dlk50huy7gy",
+      "year": "2022",
+      "heading": "Community Qure",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vQJurBSrWwCU9elgH2FxoaBpL9xir3ZVw6wx5EIXuSaaRZxCuxR77H3-3FPU8F22s8Jw5ucggo29hn4/pub",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "writing",
+      "title": "Community Qure",
+      "publisher": null
+    },
+    {
+      "id": "gC1kN7Avd3D3AYjQxUjF",
+      "year": "2020",
+      "heading": "Spreading awareness on COVID-19, India Water Portal",
+      "url": "https://www.indiawaterportal.org/articles/spreading-awareness-covid-19",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "writing",
+      "title": "Spreading awareness on COVID-19",
+      "publisher": "India Water Portal"
+    },
+    {
+      "id": "aLYjoSob8Ekjn4VT9jq4",
+      "year": "2020",
+      "heading": "Data, data everywhere, but where?, India Water Portal",
+      "url": "https://www.indiawaterportal.org/articles/data-data-everywhere-where",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "writing",
+      "title": "Data, data everywhere, but where?",
+      "publisher": "India Water Portal"
+    }
+  ],
+  "awards": [],
+  "features": [
+    {
+      "id": "FnGe4rwy5fdGfI5dR4yj",
+      "year": "2018",
+      "heading": "https://www.livemint.com/Leisure/sj7rPN4l0GM53uxlyYxcIO/Roll-the-dice-to-break-the-ice.html on Livemint",
+      "url": "https://www.livemint.com/Leisure/sj7rPN4l0GM53uxlyYxcIO/Roll-the-dice-to-break-the-ice.html",
+      "collaborators": [],
+      "description": null,
+      "attachments": [],
+      "type": "feature",
+      "title": "https://www.livemint.com/Leisure/sj7rPN4l0GM53uxlyYxcIO/Roll-the-dice-to-break-the-ice.html",
+      "publisher": "Livemint"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "pzGtjmr41s77Vk8bU9zF",
+      "year": "2023 — Now",
+      "heading": "Manager, Technology Products at Arghyam",
+      "url": "https://arghyam.org",
+      "collaborators": [],
+      "description": "Building  Digital Public Infrastructure for water, leading efforts to create a DPI for the water sector in India.\n\nIndia has the world's largest drinking water project. At Arghyam, we're creating the building blocks to solve water problems across the country. \n\nLearning from the architects of Aadhar, UPI and IndiaStack, we're creating a water stack that enables, state governments and private actors to solve the water crisis.\n\nI work with central ministry to create standards, APIs and reference implementations. In tandem, I work with state governments to utilize these improvements to  pilot and validate prototypes. ",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Manager, Technology Products",
+      "company": "Arghyam",
+      "location": "Bangalore"
+    },
+    {
+      "id": "Q8LzwLlZ2KfgJ3rtnCAp",
+      "year": "2022 — 2024",
+      "heading": "Technology Manager at India Water Portal",
+      "url": "https://indiawaterportal.org",
+      "collaborators": [],
+      "description": "Led development and editorial teams to maintain multiple media sites and knowledge platforms for India Water Portal, a dedicated knowledge portal on water.\n\nLed editorial and content strategy, created the most listened podcast on water in India - [Voices for Water](https://www.youtube.com/@voicesforwater8481).\n\nScaled site architecture to support audience growth from 200k to 1.6 million per month.\n\nReduced AWS server expenses by consolidating services, optimizing servers, it led to annual savings of 40%.\n\nAdopted Agile by working with multiple teams to bring predictability to feature releases.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Technology Manager",
+      "company": "India Water Portal",
+      "location": ""
+    },
+    {
+      "id": "xwApJAeyBN9JCFZIybgB",
+      "year": "2016 — 2022",
+      "heading": "Technology and Development Officer at Arghyam",
+      "url": "http://arghyam.org",
+      "collaborators": [],
+      "description": "Managed a SaaS based learning management system with 20k+ community users.\n\nManaged tech-support team that deployed and handled L1 and L2 support across 9+ Indian states.\n\nEnabled 1500+ trainers to adopt to our platform by creating and sharing best practices.\n\nReduced onboarding time from 10 to 2 days by templating process for new partners.\n\nManaged multiple data and technology products\n\nSpearheaded implementation of Open-source Learning Management System.\n\nMentored water experts to recreate courses from slides to reusable learning modules.\n\nEstablished field data collection tools for community workers to monitor groundwater levels.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Technology and Development Officer",
+      "company": "Arghyam",
+      "location": ""
+    },
+    {
+      "id": "8J0tIs14Hc1dAAG3KEp6",
+      "year": "2014 — 2015",
+      "heading": "Product Associate at Essmart Global",
+      "url": "https://www.essmart-global.com/",
+      "collaborators": [],
+      "description": "Researched pricing feasibility and market feasibility for new services and products.\n\nTrained rural field agents to conduct product demos and installations of new products.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Associate",
+      "company": "Essmart Global",
+      "location": null
+    },
+    {
+      "id": "38mSTUr6us4y9o4uRFv2",
+      "year": "2011 — 2012",
+      "heading": "Evangelist at Artoo",
+      "url": "http://artoo.com",
+      "collaborators": [],
+      "description": "Developed client acquisition and developer engagement pipelines.\n\nOn-field product research and demo of software to prospective clients. \n\nCreated developer community events and outreach practices that improved hiring",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Evangelist",
+      "company": "Artoo",
+      "location": null
+    },
+    {
+      "id": "wmOKWCddXTZCKXT1ihE1",
+      "year": "2010 — 2011",
+      "heading": "Engineer at Artoo",
+      "url": "http://artoo.com",
+      "collaborators": [],
+      "description": "Created web modules for microfinance workflows between field agents and loan officers. \n\nBuilt a custom module for content providers to develop and deploy learning content.\n\nDesigned interfaces for first-time technology users with low-end smartphones.\n\nReduced survey duration from 4 hours to 45 minutes with form automations.\n\nOptimized monitoring and validation of field data for loan officers.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Engineer",
+      "company": "Artoo",
+      "location": null
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "WQOZaaCpNmCSuAV7ppCp",
+      "year": "2023 — 2023",
+      "heading": "Frontiers and Frames for a new Digitality at IT for Change",
+      "url": "https://itforchange.net/institute-on-frontiers-and-frames-for-a-new-digitality",
+      "collaborators": [],
+      "description": "Was part of a 5-day institute by IT for Change to capacitate civil society actors with the necessary vocabulary and tools to appropriately frame and approach emerging digital intersections with their work, as well as develop strategies for effective political organization.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Frontiers and Frames for a new Digitality",
+      "organization": "IT for Change",
+      "location": "Chiang Mai, Thailand"
+    },
+    {
+      "id": "fVtwSiEVogne3oalz982",
+      "year": "2022 — 2022",
+      "heading": "Working Group Member at MySociety",
+      "url": "https://tictec.mysociety.org/action-lab-5/",
+      "collaborators": [],
+      "description": "As part of the TICTeC Labs programme, mySociety convened TICTeC Action Lab (aka working group) to discuss common challenges in using civic tech to encourage people to change and coordinate their behaviour in ways that can cause significant changes in society, specifically through the lens of climate action.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Working Group Member",
+      "organization": "MySociety",
+      "location": null
+    },
+    {
+      "id": "hzjTrGA10ZFWokfq0O8i",
+      "year": "2022 — 2022",
+      "heading": "Contributor at National Data Platform",
+      "url": null,
+      "collaborators": [],
+      "description": "As part of the consultations for upcoming National Data Platform, I gave inputs on the proposed technical architecture. I shared nonprofits challenges in contributing and accessing open data.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Contributor",
+      "organization": "National Data Platform",
+      "location": null
+    },
+    {
+      "id": "k1l1sMguAD8sLpjgI3CV",
+      "year": "2018 — 2018",
+      "heading": "Member at Karnataka Jnana Aayoga (Karnataka Knowledge Commision)",
+      "url": null,
+      "collaborators": [],
+      "description": "Advised Data Management Sub Group for Karnataka State Water Policy on data gaps in public data, need for community owned data governance and management.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Member",
+      "organization": "Karnataka Jnana Aayoga (Karnataka Knowledge Commision)",
+      "location": "Vikasa Soudha"
+    },
+    {
+      "id": "V3k6XYhaG40HIUVcBWXu",
+      "year": "2017 — 2017",
+      "heading": "Mentor at NCore Hackathon",
+      "url": null,
+      "collaborators": [],
+      "description": "Mentored teams working on solutions for water security, by sharing data, limitations of current alternatives.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Mentor",
+      "organization": "NCore Hackathon",
+      "location": null
+    },
+    {
+      "id": "Yfn3maUhbMXfmJ6q0eBU",
+      "year": "2013 — 2017",
+      "heading": "Volunteer at DataMeet",
+      "url": "http://datameet.org",
+      "collaborators": [],
+      "description": "Hosted the first Bangalore Open Data Camp, an unconference with participation from NGOs, data scientists, technology firms and social impact business.\n\nAlso ran workshops to liberate data, and manage the community.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Volunteer",
+      "organization": "DataMeet",
+      "location": null
+    },
+    {
+      "id": "K40ThnLvsaNOaR90Asd6",
+      "year": "2010 — 2015",
+      "heading": "Volunteer at HasGeek",
+      "url": "https://hasgeek.com",
+      "collaborators": [],
+      "description": "Love the community, volunteered in different roles over the years - logistics, video streaming, network setup, speaker support and the likes.\n\nLearnt from talks, interacted with experts, was an overall ball to be a part of.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Volunteer",
+      "organization": "HasGeek",
+      "location": "Bangalore"
+    }
+  ],
+  "education": [
+    {
+      "id": "SOf28jccywdeoSLZN0JE",
+      "year": "2014 — 2016",
+      "heading": "M.A at Azim Premji University",
+      "url": null,
+      "collaborators": [],
+      "description": "Development Studies with a specialization in Sustainability",
+      "attachments": [],
+      "type": "education",
+      "degree": "M.A",
+      "school": "Azim Premji University",
+      "location": "Bangalore"
+    },
+    {
+      "id": "tN9moKCw2LwlA8D2KiM3",
+      "year": "2006 — 2010",
+      "heading": "B.Tech at Jawaharlal Nehru Technological University",
+      "url": null,
+      "collaborators": [],
+      "description": "Computer Science and Engineering",
+      "attachments": [],
+      "type": "education",
+      "degree": "B.Tech",
+      "school": "Jawaharlal Nehru Technological University",
+      "location": "Kakinada"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "E8Xpov0lcfUT8mRYCDVt",
+      "platform": "Email",
+      "handle": "sreechandt@gmail.com",
+      "url": "mailto:sreechandt@gmail.com"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "pzGtjmr41s77Vk8bU9zF",
+          "year": "2023 — Now",
+          "heading": "Manager, Technology Products at Arghyam",
+          "url": "https://arghyam.org",
+          "collaborators": [],
+          "description": "Building  Digital Public Infrastructure for water, leading efforts to create a DPI for the water sector in India.\n\nIndia has the world's largest drinking water project. At Arghyam, we're creating the building blocks to solve water problems across the country. \n\nLearning from the architects of Aadhar, UPI and IndiaStack, we're creating a water stack that enables, state governments and private actors to solve the water crisis.\n\nI work with central ministry to create standards, APIs and reference implementations. In tandem, I work with state governments to utilize these improvements to  pilot and validate prototypes. ",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Manager, Technology Products",
+          "company": "Arghyam",
+          "location": "Bangalore"
+        },
+        {
+          "id": "Q8LzwLlZ2KfgJ3rtnCAp",
+          "year": "2022 — 2024",
+          "heading": "Technology Manager at India Water Portal",
+          "url": "https://indiawaterportal.org",
+          "collaborators": [],
+          "description": "Led development and editorial teams to maintain multiple media sites and knowledge platforms for India Water Portal, a dedicated knowledge portal on water.\n\nLed editorial and content strategy, created the most listened podcast on water in India - [Voices for Water](https://www.youtube.com/@voicesforwater8481).\n\nScaled site architecture to support audience growth from 200k to 1.6 million per month.\n\nReduced AWS server expenses by consolidating services, optimizing servers, it led to annual savings of 40%.\n\nAdopted Agile by working with multiple teams to bring predictability to feature releases.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Technology Manager",
+          "company": "India Water Portal",
+          "location": ""
+        },
+        {
+          "id": "xwApJAeyBN9JCFZIybgB",
+          "year": "2016 — 2022",
+          "heading": "Technology and Development Officer at Arghyam",
+          "url": "http://arghyam.org",
+          "collaborators": [],
+          "description": "Managed a SaaS based learning management system with 20k+ community users.\n\nManaged tech-support team that deployed and handled L1 and L2 support across 9+ Indian states.\n\nEnabled 1500+ trainers to adopt to our platform by creating and sharing best practices.\n\nReduced onboarding time from 10 to 2 days by templating process for new partners.\n\nManaged multiple data and technology products\n\nSpearheaded implementation of Open-source Learning Management System.\n\nMentored water experts to recreate courses from slides to reusable learning modules.\n\nEstablished field data collection tools for community workers to monitor groundwater levels.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Technology and Development Officer",
+          "company": "Arghyam",
+          "location": ""
+        },
+        {
+          "id": "8J0tIs14Hc1dAAG3KEp6",
+          "year": "2014 — 2015",
+          "heading": "Product Associate at Essmart Global",
+          "url": "https://www.essmart-global.com/",
+          "collaborators": [],
+          "description": "Researched pricing feasibility and market feasibility for new services and products.\n\nTrained rural field agents to conduct product demos and installations of new products.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Associate",
+          "company": "Essmart Global",
+          "location": null
+        },
+        {
+          "id": "38mSTUr6us4y9o4uRFv2",
+          "year": "2011 — 2012",
+          "heading": "Evangelist at Artoo",
+          "url": "http://artoo.com",
+          "collaborators": [],
+          "description": "Developed client acquisition and developer engagement pipelines.\n\nOn-field product research and demo of software to prospective clients. \n\nCreated developer community events and outreach practices that improved hiring",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Evangelist",
+          "company": "Artoo",
+          "location": null
+        },
+        {
+          "id": "wmOKWCddXTZCKXT1ihE1",
+          "year": "2010 — 2011",
+          "heading": "Engineer at Artoo",
+          "url": "http://artoo.com",
+          "collaborators": [],
+          "description": "Created web modules for microfinance workflows between field agents and loan officers. \n\nBuilt a custom module for content providers to develop and deploy learning content.\n\nDesigned interfaces for first-time technology users with low-end smartphones.\n\nReduced survey duration from 4 hours to 45 minutes with form automations.\n\nOptimized monitoring and validation of field data for loan officers.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Engineer",
+          "company": "Artoo",
+          "location": null
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "hvqrwboiSmLi64alTAYO",
+          "year": "2021",
+          "heading": "Scaling Community Engagement at Foundation for Ecological Society",
+          "url": null,
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "project",
+          "title": "Scaling Community Engagement",
+          "company": "Foundation for Ecological Society"
+        },
+        {
+          "id": "nrguvZ0kLxM4zvcwgEJx",
+          "year": "2019",
+          "heading": "Learning Platforms at Sunbird",
+          "url": "https://github.com/arghyam/sunbird-portal/tree/jaldhara-master",
+          "collaborators": [],
+          "description": "Helped pivot Arghyam from a traditional philanthropy to an ecosystem enabler. Inspired by the Digital Public Goods Alliance. \n\nI led a multi stakeholder team in developing and deploying a learning management system with a focus on openness and sharing. \n\nTrainers were able to create modules easily, translate modules easily and partners were able to build courses from all available content, not just their own. \n\nCodebase of new modules created were contributed to the ecosystem. All content created on the platform was Creative Commons (CC BY 4.0)",
+          "attachments": [],
+          "type": "project",
+          "title": "Learning Platforms",
+          "company": "Sunbird"
+        },
+        {
+          "id": "W8WO7hOxid0NCY5LQ9rS",
+          "year": "2018",
+          "heading": "Open Water Data at DataMeet & Center for Internet and Society",
+          "url": "https://www.indiawaterportal.org/articles/open-water-data-integrated-water-science",
+          "collaborators": [],
+          "description": "As I started managing India Water Portal, I realized that most nonprofits who are poised to use GIS tools do not have an understanding on availability of datasets on groundwater and related resources(Land Use/Land Cover, Precipitation).\n\nCommissioned this grant to analyze available datasets and to build a prototype that can overlay selected datasets.",
+          "attachments": [],
+          "type": "project",
+          "title": "Open Water Data",
+          "company": "DataMeet & Center for Internet and Society"
+        },
+        {
+          "id": "nXZP4FZlhaVmampgAmPp",
+          "year": "2017",
+          "heading": "Kobo for Water at Multiple Indian Nonprofits",
+          "url": null,
+          "collaborators": [],
+          "description": "Built workflows to collect data for groundwater monitoring, trained NGOs across India\n\nHaving used ODK in the previous projects and understanding its limitations (lack of case management, ease of use, and update lags) I evaluated other open and SaaS data collection platforms\n\nI rolled out KoboCollect with templates for groundwater data that nonprofit partners can quickly duplicate and collect data about their groundwater resources.\n\nTrained NGOs in Meghalaya, Mizoram and Tripura on how to collect data, data standards and interpreting collected data.\n\nThese rollouts led to National Mission on Himalayan Studies\n(NMHS) implementing tools and standards in Uttarakhand, Nagaland and Arunachal Pradesh",
+          "attachments": [],
+          "type": "project",
+          "title": "Kobo for Water",
+          "company": "Multiple Indian Nonprofits"
+        },
+        {
+          "id": "ncqdrx0UK85Sbr5ELYkc",
+          "year": "2016",
+          "heading": "Odisha Springs at UNDP",
+          "url": "https://tribal.nic.in/1000-springs-initiative.aspx",
+          "collaborators": [],
+          "description": "Customized ODK to build an inventory of springs in 3 districts of Odisha.\n\nConsulted water experts and local data collecting volunteers to create standards\n\nTrained 50 people over 2 days to collect data of 300 springs in 2 months.\n\nCollated and visualized this data that led to the creation of the 1000 Springs Initiative by the Ministry of Tribal Affairs",
+          "attachments": [],
+          "type": "project",
+          "title": "Odisha Springs",
+          "company": "UNDP"
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "OCAKgSsHMAVE1Cd2EfaN",
+          "year": "2024",
+          "heading": "Next steps: Integration of AI, Languages and Digitization in Work Practices at Future of the Commons",
+          "url": null,
+          "collaborators": [],
+          "description": "Commons: A Conversation on Artificial Intelligence, Indian Languages and Archives\n\nIn this panel, I shared my learnings managing a multi-language low-bandwidth platform that has first time technology users.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Next steps: Integration of AI, Languages and Digitization in Work Practices",
+          "event": "Future of the Commons",
+          "location": "Maharashtra Knowledge Corporation Ltd, Pune"
+        },
+        {
+          "id": "wkbNILVRPSFGuTLpBSFc",
+          "year": "2023",
+          "heading": "A Commons Approach to Digital Transformation at Roots of Resilience",
+          "url": "https://platform.coop/events/roots-of-resilience/a-commons-approach-to-digital-transformation/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "talk",
+          "title": "A Commons Approach to Digital Transformation",
+          "event": "Roots of Resilience",
+          "location": "Kochi, India"
+        },
+        {
+          "id": "hMe5CWIguo4Uy9B6NSkM",
+          "year": "2017",
+          "heading": "Data Challenges in the Development Sector at Open Data Camp",
+          "url": null,
+          "collaborators": [],
+          "description": "Shared culture and technological challenges that organisations must overcome to lead data-driven interventions in the development sector.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Data Challenges in the Development Sector",
+          "event": "Open Data Camp",
+          "location": "Delhi"
+        },
+        {
+          "id": "SPFN72r7nzp2sY0hKNVm",
+          "year": "2010",
+          "heading": "Designing Culturally Appropriate Games by Drawing on Indian Mythology at IndiaHCI 2010 | IDID 2010",
+          "url": null,
+          "collaborators": [],
+          "description": "As part of IFIP TC13 Special Interest Group on Interaction Design for International Development, presented on language learning games to compliment school education for rural Indian students.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Designing Culturally Appropriate Games by Drawing on Indian Mythology",
+          "event": "IndiaHCI 2010 | IDID 2010",
+          "location": "Mumbai"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "HcUmenmAIMuU3SowDYgo",
+          "year": "Ongoing",
+          "heading": "Boardgame community at ReRoll",
+          "url": "http://reroll.in",
+          "collaborators": [],
+          "description": "ReRoll is a community-focused board games collective in Bangalore. What started as a way for a few friends to share our joy of boardgaming grew to become the largest board game group in India.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Boardgame community",
+          "company": "ReRoll"
+        },
+        {
+          "id": "qac5U5kVkzfa6iLqMtdm",
+          "year": "2021",
+          "heading": "Coping with COVID at Pause to Begin",
+          "url": null,
+          "collaborators": [],
+          "description": "Collaborated with therapists to set up pro-bono therapy sessions during 1st and 2nd waves of COVID. I onboarded therapists onto a scheduling platform, trained them on how to use and customize their slots based on their availability.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Coping with COVID",
+          "company": "Pause to Begin"
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "LYyGItKMxpogOvki3EpQ",
+          "year": "2024",
+          "heading": "How do your everyday choices impact the world's resources?, India Water Portal",
+          "url": "https://www.indiawaterportal.org/articles/how-do-your-everyday-choices-impact-worlds-resources",
+          "collaborators": [],
+          "description": "First of a series of articles on digital commons and water.",
+          "attachments": [],
+          "type": "writing",
+          "title": "How do your everyday choices impact the world's resources?",
+          "publisher": "India Water Portal"
+        },
+        {
+          "id": "wVoRIM825Dlk50huy7gy",
+          "year": "2022",
+          "heading": "Community Qure",
+          "url": "https://docs.google.com/document/d/e/2PACX-1vQJurBSrWwCU9elgH2FxoaBpL9xir3ZVw6wx5EIXuSaaRZxCuxR77H3-3FPU8F22s8Jw5ucggo29hn4/pub",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "writing",
+          "title": "Community Qure",
+          "publisher": null
+        },
+        {
+          "id": "gC1kN7Avd3D3AYjQxUjF",
+          "year": "2020",
+          "heading": "Spreading awareness on COVID-19, India Water Portal",
+          "url": "https://www.indiawaterportal.org/articles/spreading-awareness-covid-19",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "writing",
+          "title": "Spreading awareness on COVID-19",
+          "publisher": "India Water Portal"
+        },
+        {
+          "id": "aLYjoSob8Ekjn4VT9jq4",
+          "year": "2020",
+          "heading": "Data, data everywhere, but where?, India Water Portal",
+          "url": "https://www.indiawaterportal.org/articles/data-data-everywhere-where",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "writing",
+          "title": "Data, data everywhere, but where?",
+          "publisher": "India Water Portal"
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        {
+          "id": "FnGe4rwy5fdGfI5dR4yj",
+          "year": "2018",
+          "heading": "https://www.livemint.com/Leisure/sj7rPN4l0GM53uxlyYxcIO/Roll-the-dice-to-break-the-ice.html on Livemint",
+          "url": "https://www.livemint.com/Leisure/sj7rPN4l0GM53uxlyYxcIO/Roll-the-dice-to-break-the-ice.html",
+          "collaborators": [],
+          "description": null,
+          "attachments": [],
+          "type": "feature",
+          "title": "https://www.livemint.com/Leisure/sj7rPN4l0GM53uxlyYxcIO/Roll-the-dice-to-break-the-ice.html",
+          "publisher": "Livemint"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "WQOZaaCpNmCSuAV7ppCp",
+          "year": "2023 — 2023",
+          "heading": "Frontiers and Frames for a new Digitality at IT for Change",
+          "url": "https://itforchange.net/institute-on-frontiers-and-frames-for-a-new-digitality",
+          "collaborators": [],
+          "description": "Was part of a 5-day institute by IT for Change to capacitate civil society actors with the necessary vocabulary and tools to appropriately frame and approach emerging digital intersections with their work, as well as develop strategies for effective political organization.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Frontiers and Frames for a new Digitality",
+          "organization": "IT for Change",
+          "location": "Chiang Mai, Thailand"
+        },
+        {
+          "id": "fVtwSiEVogne3oalz982",
+          "year": "2022 — 2022",
+          "heading": "Working Group Member at MySociety",
+          "url": "https://tictec.mysociety.org/action-lab-5/",
+          "collaborators": [],
+          "description": "As part of the TICTeC Labs programme, mySociety convened TICTeC Action Lab (aka working group) to discuss common challenges in using civic tech to encourage people to change and coordinate their behaviour in ways that can cause significant changes in society, specifically through the lens of climate action.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Working Group Member",
+          "organization": "MySociety",
+          "location": null
+        },
+        {
+          "id": "hzjTrGA10ZFWokfq0O8i",
+          "year": "2022 — 2022",
+          "heading": "Contributor at National Data Platform",
+          "url": null,
+          "collaborators": [],
+          "description": "As part of the consultations for upcoming National Data Platform, I gave inputs on the proposed technical architecture. I shared nonprofits challenges in contributing and accessing open data.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Contributor",
+          "organization": "National Data Platform",
+          "location": null
+        },
+        {
+          "id": "k1l1sMguAD8sLpjgI3CV",
+          "year": "2018 — 2018",
+          "heading": "Member at Karnataka Jnana Aayoga (Karnataka Knowledge Commision)",
+          "url": null,
+          "collaborators": [],
+          "description": "Advised Data Management Sub Group for Karnataka State Water Policy on data gaps in public data, need for community owned data governance and management.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Member",
+          "organization": "Karnataka Jnana Aayoga (Karnataka Knowledge Commision)",
+          "location": "Vikasa Soudha"
+        },
+        {
+          "id": "V3k6XYhaG40HIUVcBWXu",
+          "year": "2017 — 2017",
+          "heading": "Mentor at NCore Hackathon",
+          "url": null,
+          "collaborators": [],
+          "description": "Mentored teams working on solutions for water security, by sharing data, limitations of current alternatives.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Mentor",
+          "organization": "NCore Hackathon",
+          "location": null
+        },
+        {
+          "id": "Yfn3maUhbMXfmJ6q0eBU",
+          "year": "2013 — 2017",
+          "heading": "Volunteer at DataMeet",
+          "url": "http://datameet.org",
+          "collaborators": [],
+          "description": "Hosted the first Bangalore Open Data Camp, an unconference with participation from NGOs, data scientists, technology firms and social impact business.\n\nAlso ran workshops to liberate data, and manage the community.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Volunteer",
+          "organization": "DataMeet",
+          "location": null
+        },
+        {
+          "id": "K40ThnLvsaNOaR90Asd6",
+          "year": "2010 — 2015",
+          "heading": "Volunteer at HasGeek",
+          "url": "https://hasgeek.com",
+          "collaborators": [],
+          "description": "Love the community, volunteered in different roles over the years - logistics, video streaming, network setup, speaker support and the likes.\n\nLearnt from talks, interacted with experts, was an overall ball to be a part of.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Volunteer",
+          "organization": "HasGeek",
+          "location": "Bangalore"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "SOf28jccywdeoSLZN0JE",
+          "year": "2014 — 2016",
+          "heading": "M.A at Azim Premji University",
+          "url": null,
+          "collaborators": [],
+          "description": "Development Studies with a specialization in Sustainability",
+          "attachments": [],
+          "type": "education",
+          "degree": "M.A",
+          "school": "Azim Premji University",
+          "location": "Bangalore"
+        },
+        {
+          "id": "tN9moKCw2LwlA8D2KiM3",
+          "year": "2006 — 2010",
+          "heading": "B.Tech at Jawaharlal Nehru Technological University",
+          "url": null,
+          "collaborators": [],
+          "description": "Computer Science and Engineering",
+          "attachments": [],
+          "type": "education",
+          "degree": "B.Tech",
+          "school": "Jawaharlal Nehru Technological University",
+          "location": "Kakinada"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "E8Xpov0lcfUT8mRYCDVt",
+          "platform": "Email",
+          "handle": "sreechandt@gmail.com",
+          "url": "mailto:sreechandt@gmail.com"
+        }
+      ]
+    }
+  ]
+}
