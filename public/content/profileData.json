@@ -241,8 +241,21 @@
   ],
   "workExperience": [
     {
+      "id": "pzGtjmr41s77Uk8bU9eF",
+      "year": "2025 — Now",
+      "heading": "Product Manager, Arghyam",
+      "url": "https://read.arghyam.org/jalsarathi",
+      "collaborators": [],
+      "description": "Leading the development of Digital Public Infrastructure (DPI) for the water sector in India, specifically spearheading Jal Soochak, a national-scale digital platform to measure and monitor rural water supply schemes.\n\n Architected and delivered the initial phase of Jal Soochak, focusing on Bulk Flow Meter (BFM) reading capture via a multi-lingual WhatsApp chatbot and mobile application, utilizing an custom ML pipeline for automated meter reading extraction with >90% accuracy.\n\nIndia has the world's largest drinking water project. At Arghyam, we're creating the building blocks to solve water problems across the country. \n\nLearning from the architects of Aadhar, UPI and IndiaStack, we're creating a water stack that enables, state governments and private actors to solve the water crisis.\n\nIn tandem, I work with state governments to utilize these improvements to pilot and validate prototypes. ",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Manager, Arghyam",
+      "company": "Arghyam",
+      "location": "Bangalore"
+    },
+    {
       "id": "pzGtjmr41s77Vk8bU9zF",
-      "year": "2023 — Now",
+      "year": "2023 — 2024",
       "heading": "Manager, Technology Products at Arghyam",
       "url": "https://arghyam.org",
       "collaborators": [],
