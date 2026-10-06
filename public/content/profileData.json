@@ -6,10 +6,10 @@
     "profession": "Product Manager - Digital Infrastructure",
     "location": "Bangalore",
     "pronouns": "He/Him",
-    "byline": "Product Manager in Bangalore, He/Him",
-    "website": "arghyam.org",
-    "websiteURL": "http://arghyam.org",
-    "about": "Leads knowledge and data products at Arghyam and India Water Portal.\n\nBuilding for the next billion. Interested in Augmented Reality, Applied AI/ML, climate action and accesibilty.",
+    "byline": "Builder of Products and Communities, He/Him",
+    "website": "sreechand.pm",
+    "websiteURL": "http://sreechand.pm",
+    "about": "Scratching my startup itch. Wayfinding and building in public.\n\n Led knowledge and data products at Arghyam and India Water Portal.\n\nBuilding for the next billion. Interested in Augmented Reality, Applied AI/ML, climate action and accesibilty.",
     "status": {
       "text": null,
       "emoji": null,
@@ -242,7 +242,7 @@
   "workExperience": [
     {
       "id": "pzGtjmr41s77Vk8bU9zF",
-      "year": "2023 — Now",
+      "year": "2023 — 2026",
       "heading": "Product Manager at Arghyam",
       "url": "https://arghyam.org",
       "collaborators": [],
@@ -442,7 +442,7 @@
       "items": [
           {
           "id": "pzGtjmr41s77Vk8bU9zF",
-          "year": "2023 — Now",
+          "year": "2023 — 2026",
           "heading": "Product Manager at Arghyam",
           "url": "https://arghyam.org",
           "collaborators": [],
